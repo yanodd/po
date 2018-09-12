@@ -41,3 +41,26 @@
 - TBD
 
 ---
+
+## PO Community 20180912
+
+---
+
+## In General
+
+- make time for quality control 
+- make time for sorting out & prioritization of user stories
+- same for backlog
+- roadmap to be created in a non ad-hoc manner
+- iterations to be planned (in conjunction with TIP probably)
+- PO alignment (PO community?)
+- Documentation (starting with DNS) to be made over
+
+---
+
+## Products
+
+- DNS: see presentation
+- NTP: no update
+- vRouter: should a VPN product be productized? PNB? BGPaaS Testing
+- BGP: scoping. What about timeframe?
