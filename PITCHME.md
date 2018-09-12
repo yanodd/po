@@ -60,7 +60,31 @@
 
 ## Products
 
-- DNS: see presentation
-- NTP: no update
-- vRouter: should a VPN product be productized? PNB? BGPaaS Testing
-- BGP: scoping. What about timeframe?
+### DNS 
+
+- see presentation
+- 3-way split
+- DNSaaS code repos (w/ pipelines)
+- documentation rewrite (TBD)
+
+---
+
+### NTP 
+
+- no update
+
+---
+
+### vRouter
+
+- still waiting for AO integration
+- should a VPN product be productized
+- collab w/ PNB 
+- BGPaaS Testing
+
+---
+
+### BGP
+
+- scoping
+- What about timeframe?
